@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PBSTestApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF1E1E1E</item>
+        <item name="colorPrimaryDark">#FF000000</item>
+        <item name="colorAccent">#FFEEA61A</item>
+    </style>
+</resources>
